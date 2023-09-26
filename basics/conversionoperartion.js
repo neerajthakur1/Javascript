@@ -21,4 +21,12 @@ let stringNumber = String(number)
 console.log(stringNumber) 
 console.log(typeof stringNumber)
 
+// ******************************** Operations ****************************************
 
+// basic math operations
+
+// prefix  operators  ------- value increment before usage    (   ++x  )
+// postfix  operators ------- value increment after usage     (   x++  )
+
+// if string first number not add
+// if number first and last string number will add not string
