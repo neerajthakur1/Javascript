@@ -1,12 +1,16 @@
-// primitive data types
+// primitive data types -- 7            call by value
+
 
 // number
 // string
 // boolean
 // null
-// undefined
+// undefined variable defined in memory but value not assigned
 // symbol
+// BigInt
 
-non primitive
+// non primitive                                call by reference
 
-object
+// object
+// array
+// functions                     javascript is dynamically typed
