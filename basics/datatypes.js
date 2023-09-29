@@ -14,3 +14,8 @@
 // object
 // array
 // functions                     javascript is dynamically typed
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack memory(primitive)                      heap memory(non - primitive)
+
